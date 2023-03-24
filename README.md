@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uditi-12&&show_icons=true" alt="uditi-12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uditi-12&show_icons=true&locale=en" alt="uditi-12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=uditi-12&langs_count=12&exclude_repo=uditi-12.github.io&show_icons=true&layout=compact" alt="uditi-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uditi-12&" alt="uditi-12" /></p>
